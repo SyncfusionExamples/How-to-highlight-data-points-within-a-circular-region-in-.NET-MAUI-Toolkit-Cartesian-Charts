@@ -37,6 +37,8 @@ This project demonstrates integration between key Syncfusion® controls:
 - **[SfCartesianChart](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.SfCartesianChart.html)** – For versatile charting capabilities.
 - **GraphicsView** – For custom drawing interactions.
 
+![CircularDataPointSelectionDemo](https://github.com/user-attachments/assets/4a860869-ff93-47fd-a13f-e574f2617f3a)
+
 ## Troubleshooting
 
 ### Path Too Long Exception
