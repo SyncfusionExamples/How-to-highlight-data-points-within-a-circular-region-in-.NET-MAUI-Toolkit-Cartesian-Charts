@@ -1,4 +1,4 @@
-# Circular data Point Selection in .NET MAUI Toolkit Cartesian Charts
+# Circular data point selection in .NET MAUI Toolkit Cartesian Charts
 
 Explore advanced data visualization techniques by extending the capabilities of [.NET MAUI Toolkit Cartesian Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts) to implement circular data point selection.
 
