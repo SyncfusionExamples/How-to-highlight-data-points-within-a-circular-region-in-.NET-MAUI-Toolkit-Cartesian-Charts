@@ -1,4 +1,4 @@
-# Circular data point selection in .NET MAUI Toolkit Cartesian Charts
+# How to highlight data points within a circular region in .NET MAUI Toolkit Cartesian Charts
 
 Explore advanced data visualization techniques by extending the capabilities of [.NET MAUI Toolkit Cartesian Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts) to implement circular data point selection.
 
