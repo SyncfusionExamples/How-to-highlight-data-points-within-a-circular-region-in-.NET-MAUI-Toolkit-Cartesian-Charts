@@ -43,5 +43,5 @@ This project demonstrates integration between key Syncfusion® controls:
 
 ### Path Too Long Exception
 
-If encountering a "Path too long" exception, shorten the repository name and retry. Refer to the referenced KB article for more insights and relevant code snippets.[How to highlight data points within a circular region in .NET MAUI Toolkit Cartesian Charts?](https://support.syncfusion.com/kb/article/20500/how-to-highlight-data-points-within-a-circular-region-in-net-maui-toolkit-cartesian-charts
+If encountering a "Path too long" exception, shorten the repository name and retry. Refer to the referenced KB article for more insights and relevant code snippets - [How to highlight data points within a circular region in .NET MAUI Toolkit Cartesian Charts](https://support.syncfusion.com/kb/article/20500/how-to-highlight-data-points-within-a-circular-region-in-net-maui-toolkit-cartesian-charts
 )
